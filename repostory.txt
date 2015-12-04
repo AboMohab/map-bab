@@ -1,0 +1,7 @@
+git remote add origin https://github.com/AboMohab/map-bab.git
+git push -u origin master
+
+
+$ gem install heroku
+
+$ chcp.com 1252
